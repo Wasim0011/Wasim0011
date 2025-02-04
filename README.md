@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django, Backend**
 
-- 👯 I’m looking to collaborate on **App Development**
+- 👯 I’m looking to collaborate on **App Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wasim0011](https://github.com/Wasim0011)
 
