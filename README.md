@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **wasim001259@gmail.com**
 
-- ⚡ Fun fact **long long int over long long**
+- ⚡ Fun fact **i prefer long long int over long long**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
