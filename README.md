@@ -8,11 +8,19 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently a **Data Engineering Intern at Sigmoid**, building scalable data pipelines.
-- 🌱 Expanding my backend expertise with **Django**.
+- 🔭 I’m currently a **Data Engineering Intern at Sigmoid**.
+- 🌱 Expanding my backend expertise with **Django** and **System Architecture**.
 - 👯 Open to collaborations on **App Development** or **Data Engineering** projects.
 - 💬 Ask me about **Flutter, Spark, or Databricks**.
 - ⚡ Fun fact: **I prefer `long long int` over `long long`.**
+
+---
+
+### 🏆 Achievements & Research
+- 🏅 **GitHub Achievements:** (Enable private contributions to see badges like Pull Shark & YOLO!)
+- 📝 **Academic Research:** Currently working on human activity recognition research using the CSI dataset.
+- 🎓 **Technical Mastery:** Preparing for NPTEL certification exams in advanced technical domains.
+- 🚀 **Industry Experience:** Completed a summer research internship at NIT Patna.
 
 ---
 
